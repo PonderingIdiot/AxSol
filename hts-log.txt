@@ -1,0 +1,73 @@
+HTTrack3.49-2 launched on Fri, 13 Oct 2023 11:59:32 at https://axium.solutions +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://axium.solutions -O "/Users/arnav/websites/Axium" -n -t -%P -p7 -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:00:40	Warning: 	File not parsed, looks like binary: www.googletagmanager.com/robots.txt
+12:00:42	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://axium.solutions/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/our-testing-philosophy/location.href (from https://axium.solutions/our-testing-philosophy/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/our-testing-philosophy/t (from https://axium.solutions/our-testing-philosophy/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/our-testing-philosophy/Silk (from https://axium.solutions/our-testing-philosophy/)
+12:01:13	Warning: 	Moved Permanently for https://axium.solutions/?p=1331
+12:01:13	Warning: 	File has moved from https://axium.solutions/?p=1331 to https://axium.solutions/our-testing-philosophy/
+12:01:13	Warning: 	Found for https://axium.solutions/our-testing-philosophy/?amp=1
+12:01:13	Warning: 	File has moved from https://axium.solutions/our-testing-philosophy/?amp=1 to https://axium.solutions/our-testing-philosophy/?noamp=available
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/services/location.href (from https://axium.solutions/services/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/services/t (from https://axium.solutions/services/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/services/Silk (from https://axium.solutions/services/)
+12:01:13	Warning: 	Moved Permanently for https://axium.solutions/?p=2833
+12:01:13	Warning: 	File has moved from https://axium.solutions/?p=2833 to https://axium.solutions/services/
+12:01:13	Warning: 	Found for https://axium.solutions/services/?amp=1
+12:01:13	Warning: 	File has moved from https://axium.solutions/services/?amp=1 to https://axium.solutions/services/?noamp=available
+12:01:13	Warning: 	Moved Permanently for https://axium.solutions/?p=3377
+12:01:13	Warning: 	File has moved from https://axium.solutions/?p=3377 to https://axium.solutions/about/
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/contact/location.href (from https://axium.solutions/contact/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/contact/t (from https://axium.solutions/contact/)
+12:01:13	Error: 	"Not Found" (404) at link https://axium.solutions/contact/Silk (from https://axium.solutions/contact/)
+12:01:13	Warning: 	Moved Permanently for https://axium.solutions/?p=1377
+12:01:13	Warning: 	File has moved from https://axium.solutions/?p=1377 to https://axium.solutions/contact/
+12:01:14	Warning: 	Found for https://axium.solutions/contact/?amp=1
+12:01:14	Warning: 	File has moved from https://axium.solutions/contact/?amp=1 to https://axium.solutions/contact/?noamp=available
+12:01:15	Warning: 	HTML file (189905 bytes) retransferred due to lack of cache: https://axium.solutions/wp-json/
+12:01:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/wp/v2/pages/2274
+12:01:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2F
+12:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Four-testing-philosophy%2F
+12:01:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/wp/v2/pages/1331
+12:01:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/wp/v2/pages/2833
+12:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Fservices%2F
+12:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Fabout%2F
+12:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/wp/v2/pages/3377
+12:01:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Fcontact%2F
+12:01:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/wp/v2/pages/1377
+12:02:05	Error: 	"Not Found" (404) at link https://axium.solutions/xmlrpc.php?rsd (from https://axium.solutions/)
+12:02:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2F&format=xml
+12:02:12	Warning: 	HTML file (74114 bytes) retransferred due to lack of cache: https://axium.solutions/our-testing-philosophy/
+12:02:16	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://axium.solutions/?p=1331
+12:02:18	Warning: 	Moved Permanently for https://axium.solutions/?p=1331
+12:02:18	Warning: 	File has moved from https://axium.solutions/?p=1331 to https://axium.solutions/our-testing-philosophy/
+12:02:19	Error: 	"Bad Request" (400) at link https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Four-testing-philosophy%2F&format=xml (from https://axium.solutions/our-testing-philosophy/)
+12:02:19	Warning: 	HTML file (65786 bytes) retransferred due to lack of cache: https://axium.solutions/services/location.href
+12:02:20	Error: 	"Not Found" (404) at link https://axium.solutions/services/location.href (from https://axium.solutions/services/)
+12:02:20	Warning: 	HTML file (767 bytes) retransferred due to lack of cache: https://axium.solutions/?p=2833
+12:02:22	Warning: 	Moved Permanently for https://axium.solutions/?p=2833
+12:02:22	Warning: 	File has moved from https://axium.solutions/?p=2833 to https://axium.solutions/services/
+12:02:25	Error: 	"Bad Request" (400) at link https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Fservices%2F&format=xml (from https://axium.solutions/services/)
+12:02:25	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://axium.solutions/?p=3377
+12:02:27	Warning: 	Moved Permanently for https://axium.solutions/?p=3377
+12:02:27	Warning: 	File has moved from https://axium.solutions/?p=3377 to https://axium.solutions/about/
+12:02:28	Error: 	"Bad Request" (400) at link https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2Fabout%2F&format=xml (from https://axium.solutions/about/)
+12:02:28	Warning: 	HTML file (765 bytes) retransferred due to lack of cache: https://axium.solutions/?p=1377
+12:02:30	Warning: 	Moved Permanently for https://axium.solutions/?p=1377
+12:02:30	Warning: 	File has moved from https://axium.solutions/?p=1377 to https://axium.solutions/contact/
+12:02:30	Warning: 	HTML file (803 bytes) retransferred due to lack of cache: https://axium.solutions/contact/?amp=1
+12:02:31	Warning: 	Found for https://axium.solutions/contact/?amp=1
+12:02:31	Warning: 	File has moved from https://axium.solutions/contact/?amp=1 to https://axium.solutions/contact/?noamp=available
+12:02:31	Error: 	"Not Found" (404) at link https://axium.solutions/wp-json/oembed/1.0/location.href (from https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2F&format=xml)
+12:02:31	Error: 	"Not Found" (404) at link https://axium.solutions/wp-json/oembed/1.0/t (from https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2F&format=xml)
+12:02:31	Error: 	"Not Found" (404) at link https://axium.solutions/wp-json/oembed/1.0/Silk (from https://axium.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Faxium.solutions%2F&format=xml)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 59 seconds : 145 links scanned, 134 files written (8348339 bytes overall) [7933061 bytes received at 44318 bytes/sec], 2314456 bytes transferred using HTTP compression in 68 files, ratio 18%, 4.2 requests per connection
+(18 errors, 44 warnings, 0 messages)
